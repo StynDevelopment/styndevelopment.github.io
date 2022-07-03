@@ -1,2 +1,2 @@
-# stynbot.github.io
+# styndevelopment.github.io
 https://stynbot.xyz
